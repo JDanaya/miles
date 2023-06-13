@@ -15,7 +15,7 @@ user-select: none;
 ` 
 /* view size */ 
 export const Content = styled(Container)`
-max-width:450px;
+max-width:451px;
 min-width:350px;
 padding:0;
 `
